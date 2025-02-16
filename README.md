@@ -1,7 +1,7 @@
 # WiserBee
 EdTech Solution
 
-**Login Interface**
+**Signup Page**
 
 **<image_analysis>**
 
@@ -112,7 +112,7 @@ $breakpoints: (
 
 
 
-**Student Learning Management System Dashboard**
+**Student Portal**
 
 **</summary_title>**
 
